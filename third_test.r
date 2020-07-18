@@ -1,2 +1,2 @@
 # 3rd link test
-print("#rd link test with git")
+print("3rd link test with git")
